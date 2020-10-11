@@ -1,2 +1,5 @@
 # Qui-Grow-HTM
-Frontend for HTM project
+
+Frontend repo for HTM project: Qui-Grow - Growth path catered at fingertips
+
+template used for dashboard - https://github.com/Anmoldeep1509/Qui-Grow-HTM
