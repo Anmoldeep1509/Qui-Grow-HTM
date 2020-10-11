@@ -1,4 +1,8 @@
-# Qui-Grow-HTM
+# Qui-Grow
+
+Smart Public Comment Analyser and Quality Improvement scope extractor
+
+## Frontend
 
 Frontend repo for HTM project: Qui-Grow - Growth path catered at fingertips
 
