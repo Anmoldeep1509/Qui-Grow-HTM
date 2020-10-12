@@ -10,6 +10,10 @@ template used for dashboard - <https://github.com/themesberg/volt-bootstrap-5-da
 
 template used for landing - <https://bootstrapmade.com/demo/BizPage/>
 
+Landing Page - https://nimisha-singh.github.io/frontend/index.html
+
+Devfolio Submission - https://devfolio.co/submissions/quigrow
+
 todo:
 
 - [ ] add homepage URL to package.json
